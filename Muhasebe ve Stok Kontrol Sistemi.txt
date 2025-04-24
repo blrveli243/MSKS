@@ -1,6 +1,0 @@
-Muhasebe ve Stok Kontrol Sistemi (MSKS)
-Anasayfa
-Depo Stok ‹ﬂlemleriDepo stok iﬂlemleri bölümünde mevcut malzemelerin;I. Malzeme Ad›II. Mevcut AdediIII. BirimiIV. Birim Fiyat›V. Toplam Tutar›VI. Son Kullanma Tarihigibi tüm özelliklerini görüntüleyebilirsiniz.
-Malzeme GiriﬂiDepoya gelen malzemelerin sisteme kaydedildi€i bölümdür. Giriﬂ esnas›nda, malzemenin tüm özelliklerinin yan› s›ra geldi€i firman›n bilgileri de girilmelidir..
-Malzeme Ç›k›ﬂ›Kay›tl› birimlerin kullan›m›na verilen malzemelerin sistemden düﬂülmesini sa€layan bölümdür.I. Kay›tl› malzeme seçilirII. Ç›kacak adet belirtilirIII. ‹lgili birim sorumlusu seçilirArd›ndan ç›k›ﬂ iﬂlemi tamamlan›r.
-Tan›mlama ‹ﬂlemleriSistemi kullanmadan önce baz› nesnelerin önceden tan›mlanmas› gereklidir:1. Depo Tan›mlamaDepoda birden fazla malzeme türü bulunabilir. Bu bölümden s›n›rs›z say›da depo tan›mlayabilirsiniz.2. Birim Tan›mlamaMalzeme ç›k›ﬂ› yap›lacak birimlerin tan›mland›€› bölümdür.3. Personel Tan›mlamaMalzeme ç›k›ﬂ› yap›lacak kiﬂi (birim sorumlusu) bu bölümden tan›mlan›r.4. Firma Tan›mlamaMalzemenin temin edildi€i firmalar›n önceden tan›mlanmas›, veri giriﬂini kolaylaﬂt›r›r.
